@@ -2,10 +2,16 @@
 /*
 !/README.md
 !/.gitignore
-!/chapter1/
+!/chapter*/
 
 /chapter*/*/
 !/chapter*/logRegresion
+!/chapter*/svm
+!/chapter*/util
 
 /chapter*/logRegresion/*
 !/chapter*/logRegresion/*.py
+/chapter*/svm/*
+!/chapter*/svm/*.py
+/chapter*/util/*
+!/chapter*/util/*.py
