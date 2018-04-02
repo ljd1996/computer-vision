@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/*
+!/README.md
+!/.gitignore
+!/chapter1/
+
+/chapter*/*/
+!/chapter*/logRegresion
+
+/chapter*/logRegresion/*
+!/chapter*/logRegresion/*.py
