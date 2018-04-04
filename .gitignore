@@ -5,13 +5,10 @@
 !/chapter*/
 
 /chapter*/*/
-!/chapter*/logRegresion
-!/chapter*/svm
+!/chapter*/work
 !/chapter*/util
 
-/chapter*/logRegresion/*
-!/chapter*/logRegresion/*.py
-/chapter*/svm/*
-!/chapter*/svm/*.py
+/chapter*/work/*
+!/chapter*/work/*.py
 /chapter*/util/*
 !/chapter*/util/*.py
