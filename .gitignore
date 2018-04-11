@@ -5,10 +5,4 @@
 !/chapter*/
 
 /chapter*/*/
-!/chapter*/work
-!/chapter*/util
-
-/chapter*/work/*
-!/chapter*/work/*.py
-/chapter*/util/*
-!/chapter*/util/*.py
+!/chapter*/*.py
